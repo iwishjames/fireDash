@@ -1,22 +1,21 @@
-.App {
-  text-align: center;
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.fireChart {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.chartArrow {
+  position: absolute;
+  top: 96px;
+  left: 190px;
+  transform-origin: bottom center;
+  animation: test 2s;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+@keyframes test {
+  0% { transform: rotate(0deg) }
 }
