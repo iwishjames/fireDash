@@ -13,9 +13,9 @@
   top: 96px;
   left: 190px;
   transform-origin: bottom center;
-  animation: test 2s;
+  animation: arrowMovement 2s;
 }
 
-@keyframes test {
+@keyframes arrowMovement {
   0% { transform: rotate(0deg) }
 }
