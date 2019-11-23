@@ -5,24 +5,28 @@
 
 # Resources
 ### Data:
-- RFS Website - Fire Danger Chart - http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans?a=1421
-- Fire Danger Rating XML file - http://www.rfs.nsw.gov.au/feeds/fdrToban.xml
+- RFS Website - Fire Danger Chart - [](http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans?a=1421)
+- Fire Danger Rating XML file - [](http://www.rfs.nsw.gov.au/feeds/fdrToban.xml)
 
 
 ### Functionality:
-- needing require for img element in react - https://stackoverflow.com/questions/34582405/react-wont-load-local-images
-- array randomising - https://css-tricks.com/snippets/javascript/select-random-item-array/
-- overcoming CORS policy uing a CORS proxy - https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors
-- fetching and reading XML data - because the data was in XML! :( - https://www.youtube.com/watch?v=MDAWie2Sicc
-- XML to JSON npm  - https://www.npmjs.com/package/xml2js
+- needing require for img element in react - [](https://stackoverflow.com/questions/34582405/react-wont-load-local-images)
+- array randomising - [](https://css-tricks.com/snippets/javascript/select-random-item-array/)
+- overcoming CORS policy uing a CORS proxy - [](https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors)
+- fetching and reading XML data - because the data was in XML! :( - [](https://www.youtube.com/watch?v=MDAWie2Sicc)
+- XML to JSON npm  - [](https://www.npmjs.com/package/xml2js)
 
 ### CSS and Styling:
-- rotate at anchor point - https://css-tricks.com/almanac/properties/t/transform-origin/
-- animating an inline style [used this to animate the moving arrow] - https://css-tricks.com/animate-to-an-inline-style/
-- positioning images on top of each other - https://stackoverflow.com/questions/48474/how-do-i-position-one-image-on-top-of-another-in-html
+- rotate at anchor point - [](https://css-tricks.com/almanac/properties/t/transform-origin/)
+- animating an inline style [used this to animate the moving arrow] - [](https://css-tricks.com/animate-to-an-inline-style/)
+- positioning images on top of each other - [](https://stackoverflow.com/questions/48474/how-do-i-position-one-image-on-top-of-another-in-html)
 
 ### Media:
-- Original Fire Danger Rating Chart - http://dmiq0kz125zbt.cloudfront.net/images/12487.png
+- Original Fire Danger Rating Chart - [](http://dmiq0kz125zbt.cloudfront.net/images/12487.png)
+
+
+### Other:
+- Deploying React Apps to GitHub Pages - [](https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a) 
 
 ---
 
@@ -38,4 +42,4 @@
 
 
 
-- potentially could use local memory/storage to hold on to/save the person's location - so that they would only have to state it once and it should use that for everytime post.
+- potentially could use local memory/storage to hold on to/save the person's location - so that they would only have to state it once and it should use that for everytime the page is reloaded.
