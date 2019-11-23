@@ -2,6 +2,11 @@ Fire Dash - Your central dashboard for the bushfire season!
 
 
 **Resources**
+Data:
+- RFS Website - Fire Danger Chart - http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans?a=1421
+- Fire Danger Rating XML file - http://www.rfs.nsw.gov.au/feeds/fdrToban.xml
+
+
 Functionality:
 - needing require for img element in react - https://stackoverflow.com/questions/34582405/react-wont-load-local-images
 - array randomising - https://css-tricks.com/snippets/javascript/select-random-item-array/
