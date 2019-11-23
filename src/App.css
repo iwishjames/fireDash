@@ -13,7 +13,6 @@
   top: 96px;
   left: 190px;
   transform-origin: bottom center;
-  animation: arrowMovement 2s;
 }
 
 @keyframes arrowMovement {

@@ -5,6 +5,9 @@ Fire Dash - Your central dashboard for the bushfire season!
 Functionality:
 - needing require for img element in react - https://stackoverflow.com/questions/34582405/react-wont-load-local-images
 - array randomising - https://css-tricks.com/snippets/javascript/select-random-item-array/
+- overcoming CORS policy uing a CORS proxy - https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors
+- fetching and reading XML data - because the data was in XML! :( - https://www.youtube.com/watch?v=MDAWie2Sicc
+- XML to JSON npm  - https://www.npmjs.com/package/xml2js
 
 CSS and Styling:
 - rotate at anchor point - https://css-tricks.com/almanac/properties/t/transform-origin/
