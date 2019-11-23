@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fireDash/static/css/main.e2b319b1.chunk.css",
+    "main.js": "/fireDash/static/js/main.d81abce3.chunk.js",
+    "main.js.map": "/fireDash/static/js/main.d81abce3.chunk.js.map",
+    "runtime-main.js": "/fireDash/static/js/runtime-main.85e25e77.js",
+    "runtime-main.js.map": "/fireDash/static/js/runtime-main.85e25e77.js.map",
+    "static/js/2.529cb75d.chunk.js": "/fireDash/static/js/2.529cb75d.chunk.js",
+    "static/js/2.529cb75d.chunk.js.map": "/fireDash/static/js/2.529cb75d.chunk.js.map",
+    "index.html": "/fireDash/index.html",
+    "precache-manifest.8f61e8de6e194ed2f812af671c2fda31.js": "/fireDash/precache-manifest.8f61e8de6e194ed2f812af671c2fda31.js",
+    "service-worker.js": "/fireDash/service-worker.js",
+    "static/css/main.e2b319b1.chunk.css.map": "/fireDash/static/css/main.e2b319b1.chunk.css.map",
+    "static/media/airrow.png": "/fireDash/static/media/airrow.ea7cc9d7.png",
+    "static/media/firechart.png": "/fireDash/static/media/firechart.91714137.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85e25e77.js",
+    "static/js/2.529cb75d.chunk.js",
+    "static/css/main.e2b319b1.chunk.css",
+    "static/js/main.d81abce3.chunk.js"
+  ]
+}
