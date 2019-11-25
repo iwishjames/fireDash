@@ -87,7 +87,7 @@ class FireRatingChart extends Component {
             {animation}
 
             <p><span className="textBold">Region Name:</span> {this.state.regionName}</p>
-            <p><span className="textBold">Region Number:</span>  {this.state.regionNumber}</p>
+            <p><span className="textBold">Region Number:</span>  {this.state.regionNumber} (For RFS fire map reference)</p>
             <p><span className="textBold">Total Fire Ban Today?:</span>  {this.state.fireBanToday}</p>
             <span>_______________</span>
 
