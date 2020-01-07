@@ -5,7 +5,7 @@ I wanted to create this app to develop my skills with React and general coding. 
 ##### [Live Site](https://iwishjames.github.io/fireDash/)
 ---
 
-# Resources
+# Reference/Resources
 ### Data:
 - RFS Website - Fire Danger Chart - [rfs](http://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans?a=1421)
 - Fire Danger Rating XML file - [rfs](http://www.rfs.nsw.gov.au/feeds/fdrToban.xml)
@@ -13,6 +13,7 @@ I wanted to create this app to develop my skills with React and general coding. 
 
 
 ### Functionality:
+- Embed twitter timeline on react - [dev.io](https://dev.to/heymarkkop/embed-twitter-widget-on-reactjs-1768)
 - needing require for img element in react - [stackoverflow](https://stackoverflow.com/questions/34582405/react-wont-load-local-images)
 - array randomising - [css-tricks](https://css-tricks.com/snippets/javascript/select-random-item-array/)
 - overcoming CORS policy uing a CORS proxy - [stackoverflow](https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors)
