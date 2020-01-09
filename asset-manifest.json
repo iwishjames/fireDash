@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fireDash/static/css/main.e2b319b1.chunk.css",
-    "main.js": "/fireDash/static/js/main.d81abce3.chunk.js",
-    "main.js.map": "/fireDash/static/js/main.d81abce3.chunk.js.map",
+    "main.js": "/fireDash/static/js/main.10641638.chunk.js",
+    "main.js.map": "/fireDash/static/js/main.10641638.chunk.js.map",
     "runtime-main.js": "/fireDash/static/js/runtime-main.85e25e77.js",
     "runtime-main.js.map": "/fireDash/static/js/runtime-main.85e25e77.js.map",
-    "static/js/2.529cb75d.chunk.js": "/fireDash/static/js/2.529cb75d.chunk.js",
-    "static/js/2.529cb75d.chunk.js.map": "/fireDash/static/js/2.529cb75d.chunk.js.map",
+    "static/js/2.2ee85a93.chunk.js": "/fireDash/static/js/2.2ee85a93.chunk.js",
+    "static/js/2.2ee85a93.chunk.js.map": "/fireDash/static/js/2.2ee85a93.chunk.js.map",
     "index.html": "/fireDash/index.html",
-    "precache-manifest.8f61e8de6e194ed2f812af671c2fda31.js": "/fireDash/precache-manifest.8f61e8de6e194ed2f812af671c2fda31.js",
+    "precache-manifest.cf6b8ef82f1740280472373889a3e32c.js": "/fireDash/precache-manifest.cf6b8ef82f1740280472373889a3e32c.js",
     "service-worker.js": "/fireDash/service-worker.js",
     "static/css/main.e2b319b1.chunk.css.map": "/fireDash/static/css/main.e2b319b1.chunk.css.map",
     "static/media/airrow.png": "/fireDash/static/media/airrow.ea7cc9d7.png",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.85e25e77.js",
-    "static/js/2.529cb75d.chunk.js",
+    "static/js/2.2ee85a93.chunk.js",
     "static/css/main.e2b319b1.chunk.css",
-    "static/js/main.d81abce3.chunk.js"
+    "static/js/main.10641638.chunk.js"
   ]
 }
